@@ -1,0 +1,1 @@
+ Current Docmail balance ({{is_numeric($currentBalance) ? '£' . number_format($currentBalance, 2) : $currentBalance}}) is less than minimum balance ({{ is_numeric($minimumBalance) ? '£' . number_format($minimumBalance, 2) : $minimumBalance }}).

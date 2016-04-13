@@ -1,0 +1,21 @@
+{
+    "name": "gosoftware/docmail",
+    "description": "",
+    "authors": [
+        {
+            "name": "Softlabs",
+            "email": "andrew.malinnikov@apps-go.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "GoSoftware\\Docmail": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
