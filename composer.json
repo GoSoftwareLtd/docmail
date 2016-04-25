@@ -1,11 +1,11 @@
 {
-    "name": "gosoftware/docmail",
+    "name": "pauljohnston/docmail",
     "description": "",
     "authors": [
         {
             "name": "Softlabs",
             "email": "andrew.malinnikov@apps-go.com",
-            "role": "Developer "
+            "role": "Developer"
         }
     ],
     "require": {
