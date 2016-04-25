@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GoSoftware\\Docmail": "src/"
+            "GoSoftware\\Docmail\\": "src/"
         }
     },
     "minimum-stability": "dev"
